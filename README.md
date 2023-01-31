@@ -6,7 +6,7 @@
 
   
 
-> This is a webiste that lists meals with the option to checkout the recipe and to give a thumbs up if you like it. Its built on the [mealDb API](https://www.themealdb.com/api.php), an external API to display data about each meal.
+> This is a website that lists meals with the option to check out the recipe and give a thumbs up if you like it. It's built on the [mealDb API](https://www.themealdb.com/api.php), an external API to display data about each meal.
 
   
 
@@ -30,7 +30,7 @@
 
 ### Technologies used
 
-- Git, linters (Stylelint, Lighthouse, Webhint and ESLint) and Webpack.
+- Git, linters (Stylelint, Lighthouse, Webhint, and ESLint), and Webpack.
 
   
 ## Getting Started
@@ -65,7 +65,7 @@ After installing NodeJS please follow the next steps...
 git clone https://github.com/binhussen/foodie.git
 
 ```
--- for installing dev dependecies use:
+-- for installing dev dependencies use:
 
 ```bash
 
@@ -102,7 +102,7 @@ npm run test
 - LinkedIn: [Abel Gebeyehu](https://www.linkedin.com/in/abel-gebeyehu-779743183/)
 
 
-👤 **Mohammed Hussen (binhussen)**
+👤 **Mohammed Hussein (binhussen)**
 
 - GitHub: [@binhussen](https://github.com/binhussen)
 - Twitter: [@binhussens](https://twitter.com/binhussens)
